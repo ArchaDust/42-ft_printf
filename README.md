@@ -12,4 +12,4 @@ Two notable issues:
 #Features.  
 -format specifiers diouspcxX%.  
 -precision, minimum width, +-# flags.  
--erronous conversion are treated as %c for the erronous character while also applying all settings (try "%10.3t" !)
+-erronous conversion are treated as %c for the erronous character while also applying all settings (try `"%10.3t"` !)
